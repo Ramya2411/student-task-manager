@@ -1,0 +1,22 @@
+[
+  {
+    "id": "n1",
+    "title": "React Hooks Cheat Sheet",
+    "subject": "Web Development",
+    "content": "useState for state management, useEffect for side effects, useMemo/useCallback for performance optimization.",
+    "date": "2026-07-28",
+    "links": [
+      "https://react.dev"
+    ]
+  },
+  {
+    "id": "n2",
+    "title": "Express REST API Best Practices",
+    "subject": "Backend Engineering",
+    "content": "Use HTTP status codes (200, 201, 400, 404, 500). Validate request body before processing.",
+    "date": "2026-07-28",
+    "links": [
+      "https://expressjs.com"
+    ]
+  }
+]

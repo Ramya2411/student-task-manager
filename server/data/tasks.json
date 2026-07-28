@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1785252015987",
+    "createdAt": "2026-07-28T15:20:15.987Z",
+    "status": "To Do",
+    "title": "daily 2 dsa problems in java",
+    "subject": "Data Structures",
+    "category": "Lab",
+    "priority": "Medium",
+    "dueDate": "2026-07-28",
+    "dueTime": "23:59",
+    "description": "",
+    "tags": []
+  },
+  {
+    "id": "1",
+    "title": "Complete Web Development Lab Assignment 3",
+    "subject": "Web Development",
+    "category": "Lab",
+    "priority": "High",
+    "dueDate": "2026-07-29",
+    "dueTime": "23:59",
+    "status": "Completed",
+    "description": "Build a responsive portfolio page using CSS Flexbox/Grid and Javascript DOM manipulation.",
+    "tags": [
+      "React",
+      "CSS",
+      "Internship"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Prepare for Data Structures & Algorithms Midterm",
+    "subject": "Data Structures",
+    "category": "Exam Prep",
+    "priority": "High",
+    "dueDate": "2026-07-31",
+    "dueTime": "10:00",
+    "status": "To Do",
+    "description": "Review Binary Search Trees, Graph Traversals (BFS/DFS), and Dynamic Programming patterns.",
+    "tags": [
+      "Trees",
+      "Graphs",
+      "Revision"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Submit Express.js REST API Architecture Diagram",
+    "subject": "Backend Engineering",
+    "category": "Assignment",
+    "priority": "Medium",
+    "dueDate": "2026-08-02",
+    "dueTime": "18:00",
+    "status": "Completed",
+    "description": "Document endpoints for CRUD operations, JWT authentication flow, and MongoDB schema.",
+    "tags": [
+      "Express",
+      "NodeJS",
+      "API"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Flutter UI Components Layout Practice",
+    "subject": "Mobile Development",
+    "category": "Project",
+    "priority": "Low",
+    "dueDate": "2026-07-27",
+    "dueTime": "15:00",
+    "status": "Completed",
+    "description": "Design multi-screen UI with BottomNavigationBar and custom themes in Dart.",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Mobile"
+    ]
+  }
+]
