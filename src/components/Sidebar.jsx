@@ -48,8 +48,8 @@ export default function Sidebar({ activeTab, setActiveTab }) {
 
       <div className="sidebar-footer">
         <div className="internship-badge">
-          <h5>Avishkarana Andhra</h5>
-          <p>Summer Internship Mini Project</p>
+          <h5>Student</h5>
+          <p>Task Tracker</p>
         </div>
       </div>
     </aside>
